@@ -32,15 +32,15 @@ median
  my $median = undef;
  if ( $length % 2 ) 
  {
+  my $half = int ($length/2);
+  $median = $y[$half];  
+ } 
+ else
+ {
   my $lower_half = int (($length-1)/2);
   my $upper_half = int  ($length/2);
 
   $median = ($y[$lower_half] + $y[$upper_half])/2;
- } 
- else
- {
-  my $half = int ($length/2);
-  $median = $y[$half];  
  }
 
  return $median; 
@@ -195,6 +195,6 @@ Statistics::Robust::Location - Robust Location Estimators
 
 =head1 AUTHOR
 
-Walter Szeliga C<< <szeliga@colorado.edu> >>
+Walter Szeliga C<< <walter@geology.cwu.edu> >>
 
 =cut

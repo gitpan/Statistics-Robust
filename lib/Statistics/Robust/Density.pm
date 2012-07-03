@@ -229,6 +229,6 @@ Statistics::Robust::Density - Robust Probability Density Estimators
 
 =head1 AUTHOR
 
-Walter Szeliga C<< <szeliga@colorado.edu> >>
+Walter Szeliga C<< <walter@geology.cwu.edu> >>
 
 =cut

@@ -4,7 +4,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     NAME                => 'Statistics::Robust',
-    AUTHOR              => 'Walter Szeliga <szeliga@colorado.edu>',
+    AUTHOR              => 'Walter Szeliga <walter@geology.cwu.edu>',
     VERSION_FROM        => 'lib/Statistics/Robust.pm',
     ABSTRACT_FROM       => 'lib/Statistics/Robust.pm',
     PL_FILES            => {},

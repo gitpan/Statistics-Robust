@@ -132,6 +132,6 @@ Sample $n values without replacement from a vector
 
 =head1 AUTHOR
 
-Walter Szeliga C<< <szeliga@colorado.edu> >>
+Walter Szeliga C<< <walter@geology.cwu.edu> >>
 
 =cut

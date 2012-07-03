@@ -293,6 +293,6 @@ Statistics::Robust::Scale - Robust Measures of Scale
 
 =head1 AUTHOR
 
-Walter Szeliga C<< <szeliga@colorado.edu> >>
+Walter Szeliga C<< <walter@geology.cwu.edu> >>
 
 =cut

@@ -42,11 +42,11 @@ Statistics::Robust - A Collection of Robust Statistical Methods
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 SYNOPSIS
 
@@ -54,7 +54,7 @@ use Statistics::Robust;
 
 =head1 AUTHOR
 
-Walter Szeliga, C<< <szeliga at colorado.edu> >>
+Walter Szeliga, C<< <walter at geology.cwu.edu> >>
 
 =head1 BUGS
 
